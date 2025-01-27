@@ -12,7 +12,7 @@ const ReceiveCard: React.FC = () => {
   };
 
   return (
-    <div className="bg-[rgba(245,245,247,1)] flex max-w-[480px] w-full flex-col overflow-hidden items-stretch mx-auto pt-[63px] pb-2 px-5">
+    <div className="bg-[rgba(245,245,247,1)] flex max-w-[480px] w-full flex-col overflow-hidden items-stretch mx-auto pt-[63px] pb-2 px-5 font-sans">
       <header className="flex items-center gap-[40px_100px] text-xl text-[rgba(28,28,28,1)] font-semibold whitespace-nowrap justify-between">
         <div className="self-stretch my-auto">Receive</div>
         <div className="self-stretch flex w-8 shrink-0 h-8 my-auto" />
@@ -30,7 +30,7 @@ const ReceiveCard: React.FC = () => {
           </div>
         </div>
 
-        <div className="flex w-[303px] max-w-full flex-col items-stretch font-semibold text-center mt-4">
+        <div className="flex w-[278px] max-w-full flex-col items-stretch font-semibold text-center mt-8">
           <div className="text-[rgba(17,17,17,1)] text-xl">
             0xd208...452A
           </div>
