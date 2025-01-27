@@ -31,7 +31,7 @@ const ReceiveCard: React.FC = () => {
         </div>
 
         <div className="w-[278px] max-w-full flex flex-col items-stretch font-semibold text-center mt-8">
-          <div className="text-[rgba(17,17,17,1)] text-xl">
+          <div className="text-[rgba(17,17,17,1)] text-xl h-[46px] flex items-center justify-center">
             0xd208...452A
           </div>
           <div className="text-[rgba(28,28,28,1)] text-lg mt-2">
