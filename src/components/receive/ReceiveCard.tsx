@@ -30,11 +30,11 @@ const ReceiveCard: React.FC = () => {
           </div>
         </div>
 
-        <div className="flex w-[278px] max-w-full flex-col items-stretch font-semibold text-center mt-8">
+        <div className="w-[278px] max-w-full flex flex-col items-stretch font-semibold text-center mt-8">
           <div className="text-[rgba(17,17,17,1)] text-xl">
             0xd208...452A
           </div>
-          <div className="text-[rgba(28,28,28,1)] text-lg self-center mt-2">
+          <div className="text-[rgba(28,28,28,1)] text-lg mt-2">
             <span className="font-normal">0xd208</span>
             <span className="font-normal text-[rgba(143,143,143,1)]">
               794A04AF9C278EEb73E5331E63377379
